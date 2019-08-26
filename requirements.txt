@@ -7,7 +7,7 @@ git+git://github.com/ottoyiu/django-cors-headers.git
 django-extensions==1.4.0
 django-filter==0.7
 django-uuidfield==0.5.0
-djangorestframework==2.4.3
+djangorestframework==3.9.1
 djoser==0.1.0
 httplib2==0.9
 simplejson==3.6.3
