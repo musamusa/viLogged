@@ -1,4 +1,4 @@
-Django==1.7
+Django==1.11.23
 Pillow==2.5.3
 South==1.0
 django-braces==1.4.0
